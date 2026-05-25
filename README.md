@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_crown.gif" alt="Claude Code for CEOs" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Claude Code for CEOs" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">Claude Code for CEOs</h1>
